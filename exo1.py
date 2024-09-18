@@ -7,9 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
-# =====================
 # EXERCICE 1 : CLASSIFICATION D'IMAGES AVEC CNN
-# =====================
 
 # Étape 1 : Préparation de l'environnement (pas nécessaire ici car les bibliothèques sont importées)
 
